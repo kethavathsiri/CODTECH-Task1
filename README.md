@@ -1,10 +1,9 @@
-Name:Kethavath Shirisha
-Company:CODTECH IT SOLUTIONS
-ID:CT6WDS1859
-Domain:Java Programming
-Duration:September to October 2024
-Mentor:Neela Santhosh Kumar
-
+Name: Kethavath Shirisha
+Company: CODTECH IT SOLUTIONS
+ID: CT6WDS1859
+Domain: Java Programming
+Duration: September to October 2024
+Mentor: Neela Santhosh Kumar
 
 # Online Banking System
 
